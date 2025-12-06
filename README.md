@@ -85,6 +85,8 @@ source .venv/bin/activate
 .venv\Scripts\Activate.ps1
 
 # Windows (Command Prompt):
+source .venv\Scripts\activate
+
 .venv\Scripts\activate.bat
 ```
 
